@@ -1,0 +1,13 @@
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.csprojAssemblyReference.cache
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.Form1.resources
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.Properties.Resources.resources
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.csproj.GenerateResource.cache
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.csproj.CoreCompileInputs.cache
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\bin\Debug\caculadora.exe.config
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\bin\Debug\caculadora.exe
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\bin\Debug\caculadora.pdb
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.exe
+C:\Users\danilo\Documents\projeto\caculadora\caculadora\obj\Debug\caculadora.pdb
+E:\caculadora\caculadora\obj\Debug\caculadora.csprojResolveAssemblyReference.cache
+E:\caculadora\caculadora\obj\Debug\caculadora.exe
+E:\caculadora\caculadora\obj\Debug\caculadora.pdb
